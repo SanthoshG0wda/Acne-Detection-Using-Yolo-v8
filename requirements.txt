@@ -1,9 +1,8 @@
 ultralytics
 torch
 torchvision
-customtkinter
+flet
 pillow
 numpy
 opencv-python
-pandas
 openpyxl

@@ -7,14 +7,13 @@ name = "pypi"
 ultralytics = "*"
 torch = "*"
 torchvision = "*"
-customtkinter = "*"
+flet = "*"
 pillow = "*"
 numpy = "*"
 opencv-python = "*"
-pandas = "*"
 openpyxl = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.12"
+python_version = "3.11"

@@ -8,7 +8,6 @@ a = Analysis(
     binaries=[],
     datas=[
         ('best.pt', '.'),
-        ('acne_history.xlsx', '.'),
     ],
     hiddenimports=[
         'torch',
